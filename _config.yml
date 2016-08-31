@@ -1,19 +1,4 @@
-name: MoreWillie
-favicon: null
-layout_spectrum: 0.4526780038140714
 typography_spectrum: 0.6406857471447438
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9828119447920471
   saturation: 0.05947238905355334
   rhythmicContrast: 0.39731375547125936
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4526780038140714
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: MoreWillie
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: AGGREGATE MY SHIT
 purpose: []
